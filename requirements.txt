@@ -2,3 +2,10 @@ pandas
 requests
 beautifulsoup4
 matplotlib
+beautifulsoup4
+matplotlib
+pandas
+requests
+nfl_data_py
+pandas
+pyarrow
