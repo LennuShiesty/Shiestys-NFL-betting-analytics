@@ -9,3 +9,4 @@ requests
 nfl_data_py
 pandas
 pyarrow
+streamlit
