@@ -1,12 +1,7 @@
 pandas
-requests
-beautifulsoup4
-matplotlib
-beautifulsoup4
-matplotlib
-pandas
-requests
-nfl_data_py
-pandas
-pyarrow
 streamlit
+pyarrow
+requests
+beautifulsoup4
+nfl_data_py
+matplotlib
